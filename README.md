@@ -1,1 +1,1 @@
-echo 01 > arquivo.txt
+echo 01 > arquivo.txt.
