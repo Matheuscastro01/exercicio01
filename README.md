@@ -14,5 +14,5 @@ echo 02 > arquivo.txt
 
 ![image](https://github.com/user-attachments/assets/6006387b-ce60-47e0-83dc-d21946c6e1a7)
 
-
+oi
 
